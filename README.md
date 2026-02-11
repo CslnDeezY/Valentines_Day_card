@@ -1,7 +1,5 @@
 # Valentine's Day Card 
 
-A cute interactive Valentine's Day card application built with Python, Tkinter, and CustomTkinter. Dockerized for cross-platform compatibility.
-
 ## Prerequisites
 
 - [Docker](https://www.docker.com/get-started) installed on your system
